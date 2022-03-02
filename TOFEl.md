@@ -1,10 +1,10 @@
 1. 量词
-Cluster 团簇群
-Plume 尘火水升起的一团
-Batch 一批
-Regiment 团 兵团 大量
-2.	Scrape擦刮，擦去；scratch
-scrape off 刮掉；擦去
+Cluster 团簇群   
+Plume 尘火水升起的一团   
+Batch 一批   
+Regiment 团 兵团 大量   
+2.	Scrape擦刮，擦去；scratch   
+scrape off 刮掉；擦去   
 3.	Extent 广大地域，广阔的
 4.	Physiological 生理学的
 physiology 生理学
