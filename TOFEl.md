@@ -74,6 +74,9 @@ sandtone砂岩
 limestone石灰岩   
 obsidian 黑曜石   
 quartz 石英   
+granite 花岗岩  
+basalt 玄武岩   
+marble 大理石   
 22.	silt    
 deposit    
 sediment   
@@ -166,8 +169,10 @@ invertebrate 无脊椎动物
 42.	archaeologist   
 anthropologist      
 zoologist   
+topography  地形学 地貌
 43.	stratum   
 earth mantle   
+shroud 覆盖物 护照；覆盖   
 crustal(hull 船壳,谷物的壳)   
 isthmus 地峡   
 gulf 海湾   
@@ -207,6 +212,8 @@ shrimp
 crawfish 小龙虾   
 clam 蚌 蛤 钳子   
 oyster 牡蛎，蚝   
+octopus  章鱼  
+squid 乌贼 鱿鱼    
 52.	terrace   
 terrestrial   
 subterranean 地下的 隐藏的   
@@ -278,19 +285,24 @@ ferrous 含铁的
 aluminium 铝   
 zinc锌   
 tin锡   
+manganese 锰     
+cobalt 钴 深蓝色    
 sulphur 硫 sulfide 硫化物   
 sulfate 硫酸盐   
 iodine 碘，碘酒   
 ore 矿石   
 carbonate 碳酸盐   
 silicate 硅酸盐   
+chlorine 氯 氯气     
+chloride 氯化物 漂白粉    
+ion 离子    
 72.	disperse 散开   
 dispersion散布 驱散 ~degree分散程度；dispersion coefficient弥散系数   
 73.	 lavish 浪费的        
 74.	Intricate   
 complex   
 intrigue n.密谋 私通 v. 耍阴谋   
-75.	Mediterrane 地中海的   
+75.	Mediterranean 地中海的   
 Pacific 太平洋的      
 Atlantic 大西洋的   
 Arctic 北极的，寒带的   
@@ -299,6 +311,7 @@ Tropic 热带 回归线
 Equator 赤道   
 Eurasia 欧亚大陆   
 Antarctic南极的，antarctica南极洲   
+mesoamerica 中美洲的      
 76.	Mundane 世俗的，平凡的
 77.	Epitome 缩影，摘要，象征 In his eye, the cat is the epitome of laziness   
 78.	Render 致使 render sb speechless 给予 表达
@@ -382,5 +395,48 @@ stable
 105. extinction   
      extermination   
 106. decompose 分解   
-107. 
+107. juxtaposition n临近    
+    adjacent
+108. salt    
+     saline含盐的 咸的    
+     salinity 盐分    
+     salty    
+109. deciduous 每年落叶的    
+     evergreen 常绿植物；常绿的，永葆青春的
+110. aristocracy 贵族   
+     aristocratic 贵族的 贵族气派的   
+     noble 高贵的 贵族的   
+    nobility 贵族 高贵身份 高尚 尊严    
+111. solid   
+     solidarity    
+     solitude   
+     solitary    
+112. disrupt 使分裂；扰乱 使混乱
+113. decompose       
+     decomposer 分解者
+     decomposition 分解
+114. infrared 红外线 红外的      
+     ultraviolet 紫外线 紫外的
+115. anatomy 解剖    
+anatomical 结构上的 解剖的
+116. marsh 湿地 沼泽 swamp   
+     slush 烂泥      
+     mushroom 蘑菇   
+     mush 糊状物 碾碎 弄烂   
+    grind 磨碎    
+    pulverize 使粉碎，弄成粉末
+117. embryo 胚胎     
+embryonic胚胎的 初期的     
+fetus 胎儿   
+infant 婴儿    
+larva 幼虫 
+larval 幼虫状态的    
+118.   erode     
+     perish   
+119. divergence 分歧 散度  
+     derivative 导数  
+120. homogeneity  同质性 同种     
+     homogeneous  同种的 同类的    
+121. 
+
 
