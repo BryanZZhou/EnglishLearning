@@ -25,6 +25,7 @@ Permeate through：渗透过 ~the wall
 Seep   
 Seepage      
 Saturate浸透 使充满
+percolate n 渗透 蔓延 
 10.	Concentration 浓度
 11.	Glacier    
 Glaciation   
@@ -398,7 +399,8 @@ stable
 107. juxtaposition n临近    
     adjacent
 108. salt    
-     saline含盐的 咸的    
+     saline 含盐的 咸的   
+     canine 犬的 犬 
      salinity 盐分    
      salty    
 109. deciduous 每年落叶的    
@@ -437,6 +439,9 @@ larval 幼虫状态的
      derivative 导数  
 120. homogeneity  同质性 同种     
      homogeneous  同种的 同类的    
-121. 
+121. bevel 斜边和斜面    
+122. ignite    
+     igneous （岩石）火成的
+123. 
 
 
