@@ -25,7 +25,8 @@ Permeate through：渗透过 ~the wall
 Seep   
 Seepage      
 Saturate浸透 使充满
-percolate n 渗透 蔓延 
+percolate n 渗透 蔓延    
+steep 渗透 浸泡 陡峭的     
 10.	Concentration 浓度
 11.	Glacier    
 Glaciation   
@@ -33,6 +34,7 @@ Glacial
 Deglaciation   
 Steppe干草原 西伯利亚没有树木的草原   
 Mudflat 滩涂   
+prairie （尤指北美的）大草原
 Tundra 冻土带 寒漠   
 Timberline树带界限   
 12.	Countercurrent = countercurrent flow
@@ -97,7 +99,9 @@ Saturn
 Uranus   
 Neptune   
 26.	pastoral   
-pastoralism   
+pastoralism   田园主义
+militarism 军国主义   
+militaristic  军国主义的      
 27.	fin 鱼鳍 鳍状物   
 finch雀类小鸟   
 fern 蕨类植物   
@@ -161,16 +165,19 @@ banish
 flock 小动物群 鸟群 羊群 也可以指人群   
 fauna 动物群    
 flora 植物群   
-herbivore 食草动物   
+herbivore 食草动物    
+carnivore 食肉动物   
+omnivore 杂食动物   
 grazer 食草动物   
 carnival嘉年华   
 carnnibal 食人者，同类相食者   
-reptile 爬行动物   
+reptile 爬行动物   reptilian 爬行动物的
 invertebrate 无脊椎动物   
 42.	archaeologist   
-anthropologist      
-zoologist   
-topography  地形学 地貌
+anthropologist        
+zoologist     
+topography  地形学 地貌     
+aerodynamics 空气动力学     
 43.	stratum   
 earth mantle   
 shroud 覆盖物 护照；覆盖   
@@ -393,6 +400,9 @@ stable
      glandular 腺状的,腺的   
      capillary 毛细血管;毛细管;毛细管的,表面张力的   
      lobe 耳垂 肺叶   
+     carcass 尸体   
+     gut 勇气 直觉 肠子   
+     pelvis 骨盆 pelvic 骨盆的     
 105. extinction   
      extermination   
 106. decompose 分解   
@@ -426,7 +436,8 @@ anatomical 结构上的 解剖的
      mushroom 蘑菇   
      mush 糊状物 碾碎 弄烂   
     grind 磨碎    
-    pulverize 使粉碎，弄成粉末
+    pulverize 使粉碎，弄成粉末   
+     powdery 粉末状的    
 117. embryo 胚胎     
 embryonic胚胎的 初期的     
 fetus 胎儿   
@@ -439,9 +450,67 @@ larval 幼虫状态的
      derivative 导数  
 120. homogeneity  同质性 同种     
      homogeneous  同种的 同类的    
-121. bevel 斜边和斜面    
+121. bevel 斜边和斜面  
+     bellow vt. 大声喊叫；大声发出   
+vi. 吼叫；怒吼；咆哮  
+n. 吼叫声；轰鸣声    
 122. ignite    
      igneous （岩石）火成的
-123. 
+123. legend 图例  
+124. detritus 岩屑 碎石   
+     detrition 磨损
+     detrital 由岩屑形成的  
+125. locomotion 运动    
+     locomotor 运动的   
+     locomotive 火车头   
+126. stubby 矮壮的  
+     chubby 圆胖的         
+127. bride 新娘    
+bridegroom 新郎     
+bridesmaid 伴娘    
+best man 伴郎    
+128. incentive 动机 刺激 刺激性的 鼓励性质的   
+stimulus    
+129. plastic 塑料，可塑的      
+plaster 灰泥 石膏 ；涂灰泥，敷膏药   
+130. unity 统一体，团结一致      
+unite 联合 团结 统一       
+unify 使统一 只有vt    
+solidarity 团结    
+131. typify 作为   的典型代表；象征，代表   
+     symbolize    
+     epitomize 成为   的缩影
+     exemplify 是    的典型
+132. overshadow     
+ vt. 使(某物)被遮暗；使阴暗   
+使(某事物)令人不快或减少乐趣  
+使(某人)相形见绌或黯然失色   pale in comparison to
+133. fodder n 草料 炮灰     
+     v.用饲料喂    
+     forage     
+     n. 饲料；草料；搜索   
+vi. 搜寻粮草；搜寻     
+134. tableware    
+     kitchenware     
+     earthenware    
+     ware   
+135. hibernate  冬眠 蛰伏       
+hibernation 冬眠   
+dormancy 冬眠   
+136. synchronize 使同步 校准    
+137. induce 引诱 引起     
+     deduce 推断   
+138. theatrical    
+     theoretical   
+139. etch 蚀刻 铭记     
+     inscribe  铭刻    
+140. animate 鼓舞    
+animation n. 兴奋, 生气, 活跃卡通〔动画〕 片的制作     
+141. nutritional 和营养相关的   
+     nutritious 又营养的 滋养的     
+142. pacify 调解 安抚 平息
+     pacific ocean 太平洋       
+     pacifier 橡胶奶头，镇定剂   （安慰剂：placebo）     
+143. 
 
-
+ 
