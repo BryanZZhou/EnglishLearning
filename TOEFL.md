@@ -304,6 +304,8 @@ silicate 硅酸盐
 chlorine 氯 氯气     
 chloride 氯化物 漂白粉    
 ion 离子    
+ammonia 氨 氨水 氨气   
+methane 甲烷 沼气     
 72.	disperse 散开   
 dispersion散布 驱散 ~degree分散程度；dispersion coefficient弥散系数   
 73.	 lavish 浪费的        
@@ -511,6 +513,24 @@ animation n. 兴奋, 生气, 活跃卡通〔动画〕 片的制作
 142. pacify 调解 安抚 平息
      pacific ocean 太平洋       
      pacifier 橡胶奶头，镇定剂   （安慰剂：placebo）     
-143. 
+143. hexagon 六边形    
+holygon 多边形  
+-gon 角    
+144. rudimentary 基本的，初步的     
+primordial 初生的，原始的     
+145. overshoot 言过其实   
+overgraze  过度放牧   
+overirrigation 过度灌溉     
+146. sag   
+     vi. 向下凹或中间下陷
+松弛或不整齐地悬着    
+n. 下陷或松弛；下陷或松弛的地方；下陷或松弛的程度    
+sap 精力，元气；伤元气    
+147. disguise camouflage 伪装 掩饰
+148. carbohydrate 碳水化合物     
+hydrocarbon 碳氢化合物  
+149. auto 不作为词根的时候，意思是汽车        
+auto- 自    
+150. 
 
  
