@@ -173,6 +173,7 @@ carnival嘉年华
 carnnibal 食人者，同类相食者   
 reptile 爬行动物   reptilian 爬行动物的
 invertebrate 无脊椎动物   
+amphibian 两栖动物
 42.	archaeologist   
 anthropologist        
 zoologist     
@@ -531,6 +532,17 @@ sap 精力，元气；伤元气
 hydrocarbon 碳氢化合物  
 149. auto 不作为词根的时候，意思是汽车        
 auto- 自    
-150. 
-
+150. lumber 木材；笨拙地行走
+151. speculation 推测；推断；投机买卖
+152. spearhead v.带头，做先锋；n.先锋
+153. municipal v.城市的,市政的
+154. bustling v.熙熙攘攘的,忙碌的 a ~ town
+155. amend 修正    
+     amendment 修正 改正 修正案
+156. slack 绳子的松弛部分   
+     take up the slack 接过来继续干
+157. encapsulate v 装入胶囊,简要概括; These lines perfectly encapsulate Truman
+158. grandiose adj 宏伟的,浮夸的 ~ grandiose speech
+159. ramification n 分支 结果
+160. whimsical 异想天开的;反复无常的 a whimsical verse
  
