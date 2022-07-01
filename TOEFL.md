@@ -1,6 +1,6 @@
 1. 量词   
 Cluster 团簇群   
-Plume 尘火水升起的一团   
+Plume 尘火水升起的一团 A plume of smoke, dust, fire, or water is a large quantity of it that rises into the air in a column.   
 Batch 一批   
 Regiment 团 兵团 大量   
 2.	Scrape擦刮，擦去；scratch   
@@ -18,7 +18,7 @@ vt. 走弧线；形成电弧
 branch 大树枝  
 Twig 小树枝  
 8.	Cylinder 圆筒 圆柱体；气缸  
-Cy‘lindric圆柱形的  
+Cy'lindric圆柱形的  
 Column
 9.	Permeate 渗透    
 Permeate through：渗透过 ~the wall   
@@ -54,15 +54,15 @@ whereas表对比，一般可与while互换
 16.	verbal   
 言语的   
 动词的
-17.	huge体积庞大   
-enormous体积数量远超一般   
-immense空间面积分量巨大   
-giant巨人般庞大   
-gigantic面积体积巨大_   
+17. huge体积庞大    
+immense空间面积分量巨大    
+giant巨人般庞大    
+gigantic面积体积巨大    
+tremendous大得惊人//      
+vast空间面积范围大，不含重量//      
+massive体积，数量,重量庞大笨重    
+enormous体积数量远超一般     
 colossal尺寸规模无比巨大   
-vast空间面积范围大，不含重量   
-massive体积，数量,重量庞大笨重   
-tremendous大得惊人
 18.	stencil 模板；用模板印刷   
 template 样板模板
 19.	projection      
@@ -80,7 +80,7 @@ quartz 石英
 granite 花岗岩  
 basalt 玄武岩   
 marble 大理石   
-22.	silt    
+22.	silt淤积  
 deposit    
 sediment   
 sedimentary   
@@ -137,7 +137,7 @@ strait 短而窄
 34.	submit放弃抵抗,愿意服从对方   
 yield缺乏坚强意志力量而屈从于他人（生产，屈服，放弃）   
 surrender战败被迫投降或向权势屈服      
-35.	recess工作中的休息   
+35.	**recess工作中的休息**   
 cease逐渐中止，含永远结束的意味   
 stop突然中止某行为   
 halt突然决定性地终止活动   
@@ -158,9 +158,9 @@ internal
 external   
 40.	eject喷出 驱逐   
 expel   
-deport   
+**deport   
 exile      
-banish
+banish**
 41.	herd 大动物群 也可以指人群   
 flock 小动物群 鸟群 羊群 也可以指人群   
 fauna 动物群    
@@ -172,17 +172,17 @@ grazer 食草动物
 carnival嘉年华   
 carnnibal 食人者，同类相食者   
 reptile 爬行动物   reptilian 爬行动物的
-invertebrate 无脊椎动物   
-amphibian 两栖动物
+**invertebrate 无脊椎动物   
+amphibian 两栖动物**
 42.	archaeologist   
 anthropologist        
 zoologist     
-topography  地形学 地貌     
+**topography  地形学 地貌**      
 aerodynamics 空气动力学     
 43.	stratum   
 earth mantle   
-shroud 覆盖物 护照；覆盖   
-crustal(hull 船壳,谷物的壳)   
+**shroud 覆盖物 护照；覆盖   
+crustal(hull 船壳,谷物的壳)**    
 isthmus 地峡   
 gulf 海湾   
 ridge 山脊   
@@ -208,11 +208,11 @@ fortification
 hydrogen 氢气   
 oxygen 氧气      
 helium氦气    
-49.	tropic 热带    
+49.	**tropic 热带    
 tropical热带的炎热的   
 subtropical 亚热带的   
 equator 赤道   
-equatorial赤道的   
+equatorial赤道的**   
 50.	metabolism 新陈代谢   
 metabolic 新陈代谢的   
 51.	crab 蟹   
@@ -223,11 +223,11 @@ clam 蚌 蛤 钳子
 oyster 牡蛎，蚝   
 octopus  章鱼  
 squid 乌贼 鱿鱼    
-52.	terrace   
+52.	**terrace   
 terrestrial   
 subterranean 地下的 隐藏的   
 substratum 底层 下层   
-terrain 地形，地势，地面   
+terrain 地形，地势，地面**   
 53.	pore   
 spore   
 porosity   
@@ -262,8 +262,8 @@ spread一直延伸蔓延，侧重遍及
 diffuse光，声，气味在空中散布，强调覆盖与分布   
 64.	discharge   
     1.	排放， electric/water discharge   
-    2. 	开枪   
-    3. 	解除职位（严肃，含永不再录用之意）   
+    1. 	开枪   
+    2. 	解除职位（严肃，含永不再录用之意）   
 65.	Moose 驼鹿   
 elk麋鹿   
 Caribou /reindeer驯鹿   
@@ -286,10 +286,10 @@ press报刊总称，也指报业
 symbiosis 共生互利关系
 70.	neolithic 新石器时代的 neolithic age 新石器时代   
 cretaceous 白垩纪   
-71.	brass黄铜   
+71.	**brass黄铜   
 bronze青铜   
 copper 铜，铜币   
-ferrum 铁   
+ferrum 铁**   
 ferrous 含铁的   
 aluminium 铝   
 zinc锌   
@@ -298,13 +298,13 @@ manganese 锰
 cobalt 钴 深蓝色    
 sulphur 硫 sulfide 硫化物   
 sulfate 硫酸盐   
-iodine 碘，碘酒   
+**iodine 碘，碘酒   
 ore 矿石   
 carbonate 碳酸盐   
 silicate 硅酸盐   
 chlorine 氯 氯气     
 chloride 氯化物 漂白粉    
-ion 离子    
+ion 离子**  
 ammonia 氨 氨水 氨气   
 methane 甲烷 沼气     
 72.	disperse 散开   
@@ -336,9 +336,10 @@ Prestigious
 Prosper   
 Prosperous   
 prosperity   
-82.	Detractor 批评者   
-Refractory 倔强的，难以治疗的
-83.	Bulk 体积 大块   
+82.	**Detractor 批评者   
+Refractory 倔强的，难以治疗的**
+83.	Bulk 体积 大块
+gulf 分歧 海湾   
 Gulp 狼吞虎咽，大口吸气   
 Redundancy 冗余 裁员   
 Bulge 膨胀 突出部分   
@@ -351,20 +352,23 @@ Hazel 榛树
 Nebular
 86.	Endogenous 内生的   
 exogenous 外生的，外因的   
-Genus   
-87.	 Aesthetic   
-Estuary   
-Aestivation   
-88.	 Planetarium   
-Egalitarian   
+Genus 类 种 属  
+87.	 Aesthetic 审美的    
+Estuary   海口 江口  
+Aestivation   夏眠   
+88.	 Planetarium  天文馆   
+Egalitarian 平等主义的     
 Utilitarian 功利的，实用主义者   
 89.	Deplete 大大减少，消耗   
 detract vt 使分心（distract） vi ~from 贬低   
 deflect   
 90.	 Compelling 引人入胜的   
 Compel 强迫   
+dispel to make sth, especially a feeling or belief, go away or disappear
+propel 驱动  推进   
+repel 击退 驱除   
 91.	 Propagate vi&vt繁衍，增殖；insects propagate    themselves by means of eggs.   
-92.	 Ephemeral   
+92.	 Ephemeral   短暂的 瞬息的
 Perennial 持久的（~ youthfulness） 多年生的（~ marsh plant）   
 93. static   
     adj. 静态的；静力的；[物]静电的   
@@ -545,4 +549,8 @@ auto- 自
 158. grandiose adj 宏伟的,浮夸的 ~ grandiose speech
 159. ramification n 分支 结果
 160. whimsical 异想天开的;反复无常的 a whimsical verse
+161. deterministic 确定性的
+162. intrinsic 内在的，固有的
+163. crude oil 原油
+164. consecutive 连续的
  
