@@ -382,8 +382,8 @@ stable
     jaw   
     paw   
 96.  dehydrate   
-    desiccate   
-    drainage   
+    **desiccate   
+    drainage**   
 97.  inhale 吸气   
     exhale 呼气   
     external   
@@ -393,7 +393,7 @@ stable
 98. meteorite   
     meteoritic   
     meteor   
-99.  secrete 分泌 隐藏   
+99.  **secrete 分泌 隐藏**   
 100. obscure 晦涩难懂 昏暗朦胧的   
 101. empire   
      emperor   
@@ -420,9 +420,9 @@ stable
      canine 犬的 犬 
      salinity 盐分    
      salty    
-109. deciduous 每年落叶的    
-     evergreen 常绿植物；常绿的，永葆青春的
-110. aristocracy 贵族   
+109. **deciduous 每年落叶的    
+     evergreen 常绿植物；常绿的，永葆青春的**
+110. **aristocracy 贵族**   
      aristocratic 贵族的 贵族气派的   
      noble 高贵的 贵族的   
     nobility 贵族 高贵身份 高尚 尊严    
@@ -434,10 +434,10 @@ stable
 113. decompose       
      decomposer 分解者
      decomposition 分解
-114. infrared 红外线 红外的      
+114. infrared 红外线 红外的(infra-:under,inferior)      
      ultraviolet 紫外线 紫外的
-115. anatomy 解剖    
-anatomical 结构上的 解剖的
+115. **anatomy 解剖    
+anatomical 结构上的 解剖的**
 116. marsh 湿地 沼泽 swamp   
      slush 烂泥      
      mushroom 蘑菇   
@@ -445,32 +445,32 @@ anatomical 结构上的 解剖的
     grind 磨碎    
     pulverize 使粉碎，弄成粉末   
      powdery 粉末状的    
-117. embryo 胚胎     
-embryonic胚胎的 初期的     
+117. **embryo 胚胎     
+embryonic胚胎的 初期的**       
 fetus 胎儿   
 infant 婴儿    
-larva 幼虫 
-larval 幼虫状态的    
+**larva 幼虫 
+larval 幼虫状态的**    
 118.   erode     
      perish   
 119. divergence 分歧 散度  
      derivative 导数  
 120. homogeneity  同质性 同种     
      homogeneous  同种的 同类的    
-121. bevel 斜边和斜面  
+121. **bevel 斜边和斜面  
      bellow vt. 大声喊叫；大声发出   
 vi. 吼叫；怒吼；咆哮  
-n. 吼叫声；轰鸣声    
+n. 吼叫声；轰鸣声**     
 122. ignite    
      igneous （岩石）火成的
 123. legend 图例  
-124. detritus 岩屑 碎石   
+124. **detritus 岩屑 碎石   
      detrition 磨损
-     detrital 由岩屑形成的  
+     detrital 由岩屑形成的**  
 125. locomotion 运动    
      locomotor 运动的   
      locomotive 火车头   
-126. stubby 矮壮的  
+126. **stubby 矮壮的**  
      chubby 圆胖的         
 127. bride 新娘    
 bridegroom 新郎     
@@ -479,7 +479,7 @@ best man 伴郎
 128. incentive 动机 刺激 刺激性的 鼓励性质的   
 stimulus    
 129. plastic 塑料，可塑的      
-plaster 灰泥 石膏 ；涂灰泥，敷膏药   
+**plaster 灰泥 石膏 ；涂灰泥，敷膏药**   
 130. unity 统一体，团结一致      
 unite 联合 团结 统一       
 unify 使统一 只有vt    
@@ -492,10 +492,10 @@ solidarity 团结
  vt. 使(某物)被遮暗；使阴暗   
 使(某事物)令人不快或减少乐趣  
 使(某人)相形见绌或黯然失色   pale in comparison to
-133. fodder n 草料 炮灰     
+133. **fodder n 草料 炮灰     
      v.用饲料喂    
      forage     
-     n. 饲料；草料；搜索   
+     n. 饲料；草料；搜索**   
 vi. 搜寻粮草；搜寻     
 134. tableware    
      kitchenware     
@@ -503,14 +503,15 @@ vi. 搜寻粮草；搜寻
      ware   
 135. hibernate  冬眠 蛰伏       
 hibernation 冬眠   
-dormancy 冬眠   
-136. synchronize 使同步 校准    
+dormancy 冬眠
+aestivation 夏眠   
+136. **synchronize 使同步 校准**    
 137. induce 引诱 引起     
      deduce 推断   
 138. theatrical    
      theoretical   
-139. etch 蚀刻 铭记     
-     inscribe  铭刻    
+139. **etch 蚀刻 铭记     
+     inscribe  铭刻**    
 140. animate 鼓舞    
 animation n. 兴奋, 生气, 活跃卡通〔动画〕 片的制作     
 141. nutritional 和营养相关的   
@@ -519,18 +520,18 @@ animation n. 兴奋, 生气, 活跃卡通〔动画〕 片的制作
      pacific ocean 太平洋       
      pacifier 橡胶奶头，镇定剂   （安慰剂：placebo）     
 143. hexagon 六边形    
-holygon 多边形  
+polygon 多边形  
 -gon 角    
 144. rudimentary 基本的，初步的     
 primordial 初生的，原始的     
 145. overshoot 言过其实   
 overgraze  过度放牧   
 overirrigation 过度灌溉     
-146. sag   
+146. **sag   
      vi. 向下凹或中间下陷
 松弛或不整齐地悬着    
 n. 下陷或松弛；下陷或松弛的地方；下陷或松弛的程度    
-sap 精力，元气；伤元气    
+sap 精力，元气；伤元气**    
 147. disguise camouflage 伪装 掩饰
 148. carbohydrate 碳水化合物     
 hydrocarbon 碳氢化合物  
@@ -539,13 +540,13 @@ auto- 自
 150. lumber 木材；笨拙地行走
 151. speculation 推测；推断；投机买卖
 152. spearhead v.带头，做先锋；n.先锋
-153. municipal v.城市的,市政的
-154. bustling v.熙熙攘攘的,忙碌的 a ~ town
+153. **municipal v.城市的,市政的**
+154. **bustling v.熙熙攘攘的,忙碌的 a ~ town**
 155. amend 修正    
      amendment 修正 改正 修正案
 156. slack 绳子的松弛部分   
      take up the slack 接过来继续干
-157. encapsulate v 装入胶囊,简要概括; These lines perfectly encapsulate Truman
+157. **encapsulate v 装入胶囊,简要概括; These lines perfectly encapsulate Truman**
 158. grandiose adj 宏伟的,浮夸的 ~ grandiose speech
 159. ramification n 分支 结果
 160. whimsical 异想天开的;反复无常的 a whimsical verse
