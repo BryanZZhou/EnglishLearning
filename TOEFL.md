@@ -165,7 +165,8 @@ banish**
 flock 小动物群 鸟群 羊群 也可以指人群   
 fauna 动物群    
 flora 植物群   
-herbivore 食草动物    
+herbivore 食草动物
+herbaceous 草本的 叶状的 绿色的    
 carnivore 食肉动物   
 omnivore 杂食动物   
 grazer 食草动物   
@@ -178,7 +179,10 @@ amphibian 两栖动物**
 anthropologist        
 zoologist     
 **topography  地形学 地貌**      
-aerodynamics 空气动力学     
+aerodynamics 空气动力学
+theology神学   
+morphology形态学
+anatomy解剖学       
 43.	stratum   
 earth mantle   
 **shroud 覆盖物 护照；覆盖   
@@ -295,7 +299,8 @@ aluminium 铝
 zinc锌   
 tin锡   
 manganese 锰     
-cobalt 钴 深蓝色    
+cobalt 钴 深蓝色
+phosphorus 磷    
 sulphur 硫 sulfide 硫化物   
 sulfate 硫酸盐   
 **iodine 碘，碘酒   
@@ -303,7 +308,8 @@ ore 矿石
 carbonate 碳酸盐   
 silicate 硅酸盐   
 chlorine 氯 氯气     
-chloride 氯化物 漂白粉    
+chloride 氯化物 漂白粉
+chlorophyll 叶绿素    
 ion 离子**  
 ammonia 氨 氨水 氨气   
 methane 甲烷 沼气     
@@ -366,7 +372,8 @@ deflect
 Compel 强迫   
 dispel to make sth, especially a feeling or belief, go away or disappear
 propel 驱动  推进   
-repel 击退 驱除   
+repel 击退 驱除
+expel 放逐 驱逐   
 91.	 Propagate vi&vt繁衍，增殖；insects propagate    themselves by means of eggs.   
 92.	 Ephemeral   短暂的 瞬息的
 Perennial 持久的（~ youthfulness） 多年生的（~ marsh plant）   
@@ -409,7 +416,8 @@ stable
      lobe 耳垂 肺叶   
      carcass 尸体   
      gut 勇气 直觉 肠子   
-     pelvis 骨盆 pelvic 骨盆的     
+     pelvis 骨盆 pelvic 骨盆的
+     cortex 大脑皮层     
 105. extinction   
      extermination   
 106. decompose 分解   
@@ -483,7 +491,8 @@ stimulus
 130. unity 统一体，团结一致      
 unite 联合 团结 统一       
 unify 使统一 只有vt    
-solidarity 团结    
+solidarity 团结  
+cohesion 凝聚力      
 131. typify 作为   的典型代表；象征，代表   
      symbolize    
      epitomize 成为   的缩影
@@ -526,7 +535,8 @@ polygon 多边形
 primordial 初生的，原始的     
 145. overshoot 言过其实   
 overgraze  过度放牧   
-overirrigation 过度灌溉     
+overirrigation 过度灌溉
+overharvesting 过度捕捞     
 146. **sag   
      vi. 向下凹或中间下陷
 松弛或不整齐地悬着    
@@ -554,4 +564,52 @@ auto- 自
 162. intrinsic 内在的，固有的
 163. crude oil 原油
 164. consecutive 连续的
- 
+165. contaminant, contamination, contaminate
+166. 和摩擦有关的：abrade scrape grind
+167. pulse: compulsory repulse（击退） impulse
+168. congregate（vi 聚集） aggregate segregate
+169. potable edible arable 可饮用的 可食用的 可耕种的
+170. eradicate根除 歼灭 eliminate消除 annihilate消灭 歼灭 完全击败 extinguish exterminate
+171. prolific 多产的  
+proliferation 激增 增值
+172. stamina 耐力   
+stagnation 停滞
+173. digest ingest congestion
+174. 后代 descendant offspring posterity
+175. tri: intrigue intrinsic intricate
+176. rupture破裂 rapture狂喜
+177. ostentatious
+178. meticulous
+179. retain obtain attain detain abstain 戒绝
+180. deter 制止 detain拘留 阻止 sever 切断 impede(阻止) proscribe 禁止 
+181. substantiate attest corroborate verify 
+182. cramp obstruction obstacle impediment(v. impede) hindrance
+183. instigate agitate
+184. meticulous 小心翼翼地，一丝不苟的 fastidious 挑剔的，一丝不苟的
+185. ensuing subsequent
+186. supplant supersede
+187. assorted manifest manifestation(表示) lavish 丰富的
+188. arduous strenuous
+189. pragmatic实用的 务实的 enigmatic神秘的 费解的 elusive 难以捉摸的 晦涩的
+190. ingest摄入食入 assimilate 童话；吸收；彻底理解
+191. intercourse interlock interplay
+192. ostentatious 浮夸的 炫耀的 招摇的 squander挥霍
+193. secrete excrete accrete附着，积聚，吸积
+194. monotonous单调的 monogamous单配的 一夫一妻制的
+195. sabotage camouflage
+196. oblige obligatory obligation obligate
+197. justify证明……的正当性 verity 验证 证明 testify 出庭作证
+198. proscribe 禁止 prescribe 开药 规定 明示
+199. scorch discolor bleach
+200. lithosphere ozonosphere 
+201. proponent exoponent opponent
+202. disburse reimburse
+203. reimburse 偿还 redress 补偿  refund 偿还
+204. dissimulate 掩盖感情或者动机 camouflage 伪装
+205. enlist enroll recruit
+206. onset outset commence beset
+207. beset besiege siege envelope
+208. penury destitution poverty indigence
+209. indigent indigenous indignant愤愤不平的
+210. indigenous endemic
+211. fowl poultry
