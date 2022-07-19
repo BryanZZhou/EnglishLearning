@@ -25,8 +25,8 @@ Permeate through：渗透过 ~the wall
 Seep   
 Seepage      
 Saturate浸透 使充满
-percolate n 渗透 蔓延    
-steep 渗透 浸泡 陡峭的     
+**percolate n 渗透 蔓延**     
+**steep 渗透 浸泡 陡峭的**        
 10.	Concentration 浓度
 11.	Glacier    
 Glaciation   
@@ -84,8 +84,8 @@ marble 大理石
 deposit    
 sediment   
 sedimentary   
-subside 平息（wind anger） 沉淀   
-23.	pebble 鹅卵石   
+**subside 平息（wind anger） 沉淀**   
+23.	pebble 鹅卵石=cobble stone   
 pellet 小球弹，小球团    
 24.	navigate 驾驶 航行 通过   
 navigation 航海术，航空术 领航 导航   
@@ -144,7 +144,9 @@ halt突然决定性地终止活动
 quit彻底停止,暗示遭到失败挫折   
 36.	grave   
 gravel   
-granule 微粒   
+granule 微粒
+granite   
+granary   
 37.	altitude高度   
 longitude经度   
 latitude纬度   
@@ -153,7 +155,8 @@ representative(representation陈述,表现)
 agent   
 39.	superior   
 inferior   
-interior   
+interior
+exterior   
 internal   
 external   
 40.	eject喷出 驱逐   
@@ -166,7 +169,7 @@ flock 小动物群 鸟群 羊群 也可以指人群
 fauna 动物群    
 flora 植物群   
 herbivore 食草动物
-herbaceous 草本的 叶状的 绿色的    
+**herbaceous 草本的 叶状的 绿色的**    
 carnivore 食肉动物   
 omnivore 杂食动物   
 grazer 食草动物   
@@ -174,15 +177,20 @@ carnival嘉年华
 carnnibal 食人者，同类相食者   
 reptile 爬行动物   reptilian 爬行动物的
 **invertebrate 无脊椎动物   
-amphibian 两栖动物**
+amphibian 两栖动物**   
+mollusk 软体动物    
+coelenterate  腔肠动物   
 42.	archaeologist   
 anthropologist        
 zoologist     
 **topography  地形学 地貌**      
 aerodynamics 空气动力学
-theology神学   
+**theology神学**   
 morphology形态学
 anatomy解剖学       
+meteorology气象学   
+ethnology 人种学   
+geology geography geometry
 43.	stratum   
 earth mantle   
 **shroud 覆盖物 护照；覆盖   
@@ -194,9 +202,9 @@ ridge 山脊
 follow跟随引导作用的人物,跟随动机善恶均可   
 chase快速追赶或决心追踪，褒义贬义均可   
 hunt追捕或搜寻，人多指逃犯   
-trace根据线索跟踪，抽象指找到事物根源   
+**trace根据线索跟踪，抽象指找到事物根源   
 track沿着人或动物留下的印迹追踪   
-trail跟踪追击   
+trail跟踪追击**   
 45.	dietary   
 与饮食有关的 ~problems   
 	可食用的 ~fiber   
@@ -208,7 +216,7 @@ province科学，艺术领域,或个人机关管辖范围
 47.	fort   
 fortify    
 fortification   
-48.	nitrogen氮   
+48.	nitrogen氮 nitrate硝酸盐      
 hydrogen 氢气   
 oxygen 氧气      
 helium氦气    
@@ -243,7 +251,7 @@ precipitation 降水 沉淀
 57.	crude 天然未加工的  原材料   
 58.	condense压缩得更紧密，但不失去原有的内容   
 compress把乱而不成形的东西压成-定形状   
-contract以内外部力量进行紧缩，可用作引申   
+contract以内外部力量进行紧缩，可用作引申 Blood is only expelled from the heart when it contracts.    
 shrink因收缩而达不到原有长度体积或容积   
 59.	bound   
 v 弹跳   
@@ -258,7 +266,7 @@ concrete 混凝土
 resident 居民 旅馆的住客   
 civilian 相对于军人和官员的平民   
 citizen 公民或者市民   
-62.	dale 山谷    
+62.	**dale 山谷**    
 ridge 山脊   
 63.	scatter用暴力等手段使人或物四散，或随意撒开（好像并不全面）   
 disperse把一群人或物彻底驱散   
@@ -309,26 +317,28 @@ carbonate 碳酸盐
 silicate 硅酸盐   
 chlorine 氯 氯气     
 chloride 氯化物 漂白粉
-chlorophyll 叶绿素    
-ion 离子**  
+chlorophyll 叶绿素**    
+ion 离子  
 ammonia 氨 氨水 氨气   
 methane 甲烷 沼气     
 72.	disperse 散开   
 dispersion散布 驱散 ~degree分散程度；dispersion coefficient弥散系数   
-73.	 lavish 浪费的        
+73.	 lavish 奢侈的 挥霍的 慷慨的 丰富盛大的       
 74.	Intricate   
 complex   
-intrigue n.密谋 私通 v. 耍阴谋   
+intrigue n.密谋 私通 v. 耍阴谋，激起兴趣    
+intrinsic 内在的固有的      
 75.	Mediterranean 地中海的   
 Pacific 太平洋的      
 Atlantic 大西洋的   
 Arctic 北极的，寒带的   
 Oceania 大洋洲   
-Tropic 热带 回归线   
+Tropic 热带 回归线
+meridian 子午线 经线   
 Equator 赤道   
 Eurasia 欧亚大陆   
-Antarctic南极的，antarctica南极洲   
-mesoamerica 中美洲的      
+**Antarctic南极的，antarctica南极洲**   
+mesoamerica 中美洲的 meso—：中 mesolithic中石器时代      
 76.	Mundane 世俗的，平凡的
 77.	Epitome 缩影，摘要，象征 In his eye, the cat is the epitome of laziness   
 78.	Render 致使 render sb speechless 给予 表达
@@ -358,22 +368,24 @@ Hazel 榛树
 Nebular
 86.	Endogenous 内生的   
 exogenous 外生的，外因的   
-Genus 类 种 属  
+Genus 类 种 属 class order family genus  
 87.	 Aesthetic 审美的    
 Estuary   海口 江口  
-Aestivation   夏眠   
-88.	 Planetarium  天文馆   
-Egalitarian 平等主义的     
+Aestivation   夏眠
+hibernation 冬眠   
+88.	 **Planetarium  天文馆   
+Egalitarian 平等主义的**     
 Utilitarian 功利的，实用主义者   
 89.	Deplete 大大减少，消耗   
-detract vt 使分心（distract） vi ~from 贬低   
-deflect   
+detract vt 使分心（distract） vi ~from 贬低 detractor 贬低者   
+deflect 阻止 使偏移      
 90.	 Compelling 引人入胜的   
 Compel 强迫   
 dispel to make sth, especially a feeling or belief, go away or disappear
 propel 驱动  推进   
 repel 击退 驱除
-expel 放逐 驱逐   
+expel 放逐 驱逐  
+impel 驱使          
 91.	 Propagate vi&vt繁衍，增殖；insects propagate    themselves by means of eggs.   
 92.	 Ephemeral   短暂的 瞬息的
 Perennial 持久的（~ youthfulness） 多年生的（~ marsh plant）   
@@ -390,9 +402,10 @@ stable
     paw   
 96.  dehydrate   
     **desiccate   
-    drainage**   
+    drainage=sewage**   
 97.  inhale 吸气   
-    exhale 呼气   
+    exhale 呼气
+    respire 呼吸   
     external   
     internal   
     immigrate   
@@ -412,16 +425,16 @@ stable
 103. deteriorate 恶化   
 104. gland 腺体   
      glandular 腺状的,腺的   
-     capillary 毛细血管;毛细管;毛细管的,表面张力的   
+     **capillary 毛细血管;毛细管;毛细管的,表面张力的**   
      lobe 耳垂 肺叶   
      carcass 尸体   
      gut 勇气 直觉 肠子   
-     pelvis 骨盆 pelvic 骨盆的
+     **pelvis 骨盆 pelvic 骨盆的**
      cortex 大脑皮层     
 105. extinction   
      extermination   
 106. decompose 分解   
-107. juxtaposition n临近    
+107. **juxtaposition n临近**    
     adjacent
 108. salt    
      saline 含盐的 咸的   
@@ -433,11 +446,13 @@ stable
 110. **aristocracy 贵族**   
      aristocratic 贵族的 贵族气派的   
      noble 高贵的 贵族的   
-    nobility 贵族 高贵身份 高尚 尊严    
+    nobility 贵族 高贵身份 高尚 尊严
+    gentry 绅士阶层，上流人士（obsolete）
+    autocrat 独裁者 专制君主    
 111. solid   
      solidarity    
-     solitude   
-     solitary    
+     solitude 独处 独居   
+     solitary 独自的，单独的   
 112. disrupt 使分裂；扰乱 使混乱
 113. decompose       
      decomposer 分解者
@@ -455,12 +470,12 @@ anatomical 结构上的 解剖的**
      powdery 粉末状的    
 117. **embryo 胚胎     
 embryonic胚胎的 初期的**       
-fetus 胎儿   
+fetus 胎儿 fetal 胎儿的   
 infant 婴儿    
 **larva 幼虫 
 larval 幼虫状态的**    
 118.   erode     
-     perish   
+     perish 惨死；老化，脆裂  
 119. divergence 分歧 散度  
      derivative 导数  
 120. homogeneity  同质性 同种     
@@ -484,7 +499,7 @@ n. 吼叫声；轰鸣声**
 bridegroom 新郎     
 bridesmaid 伴娘    
 best man 伴郎    
-128. incentive 动机 刺激 刺激性的 鼓励性质的   
+128. incentive 动机 刺激 刺激性的 鼓励性质的 和impetus 有点像   
 stimulus    
 129. plastic 塑料，可塑的      
 **plaster 灰泥 石膏 ；涂灰泥，敷膏药**   
@@ -504,7 +519,7 @@ cohesion 凝聚力
 133. **fodder n 草料 炮灰     
      v.用饲料喂    
      forage     
-     n. 饲料；草料；搜索**   
+     n. 饲料；草料；搜索 **   
 vi. 搜寻粮草；搜寻     
 134. tableware    
      kitchenware     
@@ -517,7 +532,7 @@ aestivation 夏眠
 136. **synchronize 使同步 校准**    
 137. induce 引诱 引起     
      deduce 推断   
-138. theatrical    
+138. theatrical 戏剧的；戏剧性的   
      theoretical   
 139. **etch 蚀刻 铭记     
      inscribe  铭刻**    
@@ -525,9 +540,9 @@ aestivation 夏眠
 animation n. 兴奋, 生气, 活跃卡通〔动画〕 片的制作     
 141. nutritional 和营养相关的   
      nutritious 又营养的 滋养的     
-142. pacify 调解 安抚 平息
+142. **pacify 调解 安抚 平息**
      pacific ocean 太平洋       
-     pacifier 橡胶奶头，镇定剂   （安慰剂：placebo）     
+     **pacifier 橡胶奶头，镇定剂   （安慰剂：placebo）**     
 143. hexagon 六边形    
 polygon 多边形  
 -gon 角    
@@ -542,7 +557,7 @@ overharvesting 过度捕捞
 松弛或不整齐地悬着    
 n. 下陷或松弛；下陷或松弛的地方；下陷或松弛的程度    
 sap 精力，元气；伤元气**    
-147. disguise camouflage 伪装 掩饰
+147. disguise camouflage 伪装 掩饰 dissimulate 掩饰掩盖情感或者动机
 148. carbohydrate 碳水化合物     
 hydrocarbon 碳氢化合物  
 149. auto 不作为词根的时候，意思是汽车        
@@ -558,8 +573,8 @@ auto- 自
      take up the slack 接过来继续干
 157. **encapsulate v 装入胶囊,简要概括; These lines perfectly encapsulate Truman**
 158. grandiose adj 宏伟的,浮夸的 ~ grandiose speech
-159. ramification n 分支 结果
-160. whimsical 异想天开的;反复无常的 a whimsical verse
+159. **ramification n 分支 结果**
+160. **whimsical 异想天开的;反复无常的** a whimsical verse
 161. deterministic 确定性的
 162. intrinsic 内在的，固有的
 163. crude oil 原油
@@ -578,10 +593,10 @@ stagnation 停滞
 174. 后代 descendant offspring posterity
 175. tri: intrigue intrinsic intricate
 176. rupture破裂 rapture狂喜
-177. ostentatious
-178. meticulous
-179. retain obtain attain detain abstain 戒绝
-180. deter 制止 detain拘留 阻止 sever 切断 impede(阻止) proscribe 禁止 
+177. ostentatious lavish grandiose
+178. meticulous 细心的
+179. retain obtain attain detain拘留 扣押 abstain 戒绝
+180. deter 制止 detain拘留 阻止 sever 切断 impede(阻止) proscribe 禁止 deflect
 181. substantiate attest corroborate verify 
 182. cramp obstruction obstacle impediment(v. impede) hindrance
 183. instigate agitate
@@ -592,24 +607,74 @@ stagnation 停滞
 188. arduous strenuous
 189. pragmatic实用的 务实的 enigmatic神秘的 费解的 elusive 难以捉摸的 晦涩的
 190. ingest摄入食入 assimilate 童话；吸收；彻底理解
-191. intercourse interlock interplay
+191. intercourse（obsolete，现在是肛交的意思） interlock interplay
 192. ostentatious 浮夸的 炫耀的 招摇的 squander挥霍
 193. secrete excrete accrete附着，积聚，吸积
 194. monotonous单调的 monogamous单配的 一夫一妻制的
 195. sabotage camouflage
 196. oblige obligatory obligation obligate
-197. justify证明……的正当性 verity 验证 证明 testify 出庭作证
+197. justify证明……的正当性 verify 验证 证明 testify 出庭作证
 198. proscribe 禁止 prescribe 开药 规定 明示
-199. scorch discolor bleach
-200. lithosphere ozonosphere 
-201. proponent exoponent opponent
+199. scorch（怎么好像是烧焦的意思） discolor bleach
+200. lithosphere ozonosphere troposphere
+201. proponent exponent opponent
 202. disburse reimburse
 203. reimburse 偿还 redress 补偿  refund 偿还
 204. dissimulate 掩盖感情或者动机 camouflage 伪装
 205. enlist enroll recruit
-206. onset outset commence beset
+206. onset outset commence beset困扰 烦扰
 207. beset besiege siege envelope
 208. penury destitution poverty indigence
 209. indigent indigenous indignant愤愤不平的
 210. indigenous endemic
 211. fowl poultry
+212. paleontologist paleolithic paleoanthropologist
+213. monogamous一夫一妻 polyandrous一妻多夫 polygamous 一妻多夫 一夫多妻
+214. microfilm 微缩胶片
+215. commemorate 庆祝 We need to formally commemorate this occasion
+216. photogenic 上镜的 上相的
+217. apparition 鬼魂
+218. lurk 埋伏，潜伏；潜藏，隐藏；在群聊中“潜水”
+219. entail牵涉 encompass 包含
+220. abundant copious numerous
+221. remnant residue
+222. imminent即将发生的，临近的 ominous indigent incident indictment
+223. ceaseless relentless坚韧的不屈不挠的
+224. precede 在……之前发生 supersede 取代 impede 妨碍（impediment）expedite加速
+225. unfavorable 不利的  adverse 不利的 有害的 负面的
+226. multiply 增殖；迅速增长 proliferate 繁殖；猛增 propagate繁殖增殖
+227. ardent热烈的，激情的 an ardent supporter of Trump    
+advent 出现；到来   
+arduous 费力的，艰苦的 strenuous
+228. conduction deduction reduction induction   
+229. perplex baffle buffer(缓冲)
+230. distinction discrepancy difference discrimination(歧视 区别对待；识别力鉴赏力)
+231. monotonous tedious dull fastidious（挑剔的，注意这里是i，不是tedious）
+232. regime 政权 regiment 军队的团；一大群 corps 由两个师以上组成的兵团 从事某件事情的一群人
+233. obligate prescribe stipulate
+234. premise presume postulate
+235. monotonous homogenous monogamous ozonosphere
+236. abound 大量存在 Stories about his travel abound
+237. abound rebound 回升
+238. efficacy 功效 效力（尤其指药物）syn：effectiveness
+239. devour吞噬 encroach 蚕食
+240. ensuing subsequent 
+241. viable 切实可行的；能存活的，能独立发展的   
+viability 生存能力 可行性（feasibility）    
+vitality 生命力；活力，激情
+242. contention dispute
+243. akin to; analogous to 
+244. meager 贫乏的 deficient； be devoid of（be lacking in）
+245. preposterous ridiculous
+246. transpire     
+公开，透露 It transpired that the gang had had a contact inside the bank. 据报这伙歹徒在银行里有内应     
+发生 Let me know what transpires.
+（植物）水分蒸发 蒸腾
+247. transpire expire inspire empire respire(呼吸)
+248. expedite decelerate accelerate escalate
+249. hygiene卫生 sanitation卫生设施
+250. potent强有力的，有全权的，药效强的 cogent有说服力的，让人信服的
+251. banish deport oust exile 
+252. tempest 暴风雨 blizzard 暴风雪 gale 大风
+253. canal carnal cranial
+254. 
