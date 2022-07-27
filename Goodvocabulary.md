@@ -1,3 +1,4 @@
+# 牛奶可乐经济学
 1. quintessential /ˌkwɪntɪˈsenʃl/ 
 represent-ing the most perfect or typical example of a quality or class 本质的 典范的  
 Why is The Great Gottb such a quintessential twentieth-century novel?  
@@ -28,4 +29,19 @@ The human brain is remarkably flexible, an organ with the capacity to absorb new
 17. discipline n.（尤指大学里的）学科 a writing across the disciplines program
 18. predisposition n.以某种方式行事的倾向或者易于感染某种疾病的倾向  
 human beings have a universal predisposition to ‘story’ their experience, that is, to impose a narrative interpretation on information and experience.
-19. 
+
+
+# 圣殿春秋
+1. flint 打火石
+2. dwindle 减少变小 The flint is dwindling, but the steel still shines
+3. Its wood has withered, but it would still do the deed. 工具的木头已经萎缩了，但是仍然可以正常使用
+4. lodge 门房 小屋 Do you remember the night I came for you, in your lodge
+5. crumble 破碎 损坏 崩裂 The pillars of the earth themselves had begun to crumble.
+6. novice 新手 初学者 新信徒
+7. reprimand 斥责 reprimand seriously
+8. priory 修道院 prior 修道院院长 Leave your horse here and I'll get to the priory later.
+9. cemetery 尤其指不靠近教堂的 墓地 a military cemetery
+10. pestilence 瘟疫
+11. His novices obedient, his monks humble and pious.
+12. sorry 悲惨的破败的可怜的 in a sorry state; They were in a sorry state when they eventually got off the boat. Our priory is in such a sorry state
+13. salvation n.得救，救恩，救世；（危险，灾难等的）避免方式，解救方式 Group therapies have long been his salvation

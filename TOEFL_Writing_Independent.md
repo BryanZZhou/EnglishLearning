@@ -2,6 +2,23 @@
 1. 基本型：价值判断（写三个好处,如果凑不够三个好处，则说一点自己不支持的一方的观点的好处，但是仍然有什么缺点），现象证明
 2. 比较对比：利弊对比（和价值判断类似，A/B，两方都需要提到） 三选一 今昔对比
 3. 绝对词：绝对词单独成一类
+4. 
+   1. 价值判断： 标志词should important；思路：chemist；结构：三个A+
+   2. 现象证明：没有标志词；拆分：抽象名；：年龄职业受益方 结构也是三个A+
+   3. 利弊比较： 标志词should important+比较；思路：chemist结构：A+A+B+B-
+   4. 三选一： 标志词：最高级和三个选项；思路：chemist； 结构： nA+(n可以为1)B+B-C+C-
+   5. 今昔对比：
+   6. 绝对词题： 标志词：best only never always all must 思路和结构：承认合理性+找缺点+针对绝对词进行反驳
+# 一些常用的词汇
+1. 因果关系：to explain it further;this is because; the primary reason is;
+2. 小结句：It is unmistakably/crystal/abundantly/utterly clear that...
+3. 限定关系：regarding; in/with regard to;when it comes to(一般开头段用);in terms of...
+4. 主旨句好的表达：
+enable/allow/permit sb to do;      
+be instrumental in;        
+be tremendously beneficial to/ for ...;   
+provide sb with excellent/golden opportunities to do;    
+make it possible for sb to do
 # 1. 绝对词题
 1. 特征词：best only never always all must most 形容词最高级
 2. 绝对词题一般写驳论比较好写（相对于立论）（证明不是最好比证明最好更加容易）
@@ -90,6 +107,8 @@
 1. 特征词：should 和 necessary 的同义词,代表价值判断的意思
 2. 立场选择：没有对错之分，选话多的写
 3. 如何找优点：chemist：convenience; health and safety; environment; money; interpersonal relationship/relax;success(学习+工作+品质);technology
+4. 分论点结构：主旨句+道理论证+举例+小结；次要的分论点可以不举例，或者可以举数例、名人名言这种。
+5. 
 
 ## 例子
 1. Drivers should pay a fee for driving in busy streets when there is a heavy traffic.(2019.12.21)
@@ -142,11 +161,163 @@
          2. interpersonal relationship: background topic and interest
          3. diligence: devote time to become masters; self-discipline practice every day; innovation: depict objects that do not exist in real life
       2. 坏处：
-         1. impose financial burden on sb = pricey = unaffordable = the price of tuition is exorbitant = has an exorbitant price
+         1. impose financial burden on sb = pricey = unaffordable = the price of tuition is **exorbitant** = has an exorbitant price
    2.  technology
        1.  technology相关的改写：digital/electronical/screen-based + devices/ equipment/ products/gadgets
    3.  试写
-       1.  第一个分论点
+       1.  主要分论点（主旨+道理+例子，最好是个例+总结） Firstly, time devoted to science and technology is **rewarding in terms of** future career development. For example, when students enroll in programming classes, they get to improve their digital proficiency and ways of thinking. Thus, they gain a competitive edge in landing a job. This point is best illustrated by the case of my uncle, Jason. When he was a freshman in Tsinghua University, he enrolled in a great many selective courses in Computer Science and Engineering. Additionally, he put much effort into learning practical computer skills from available online resources and completed dozens of highly-rated projects on Github. Finding a job after graduation was fairly easy for him, and all the interviewers were impressed by his **expertise in solving** complex problems with beautiful codes. He was accepted by McKinsey as a data scientist and developed an excellent career in data analyzing afterwards.
+       2. 次要分论点（主旨+道理+数例/名人名言+总结） Secondly, putting effort into acquiring skills concerning technology and engineering can help students save money and make their life more convenient. To explain it further, students who select engineering classes learn a lot about the mechanics of many machines and devices. With the knowledge about digital devices, they know better how to lengthen the life-span of them. Moreover, when their screen-based devices are malfunctioning, they are capable of repairing them by themselves and don’t have to buy new ones or pay repairing fees. In accordance to a research conducted by John Hopkins University, students who take at least a course in computer science are 47.29% percent more likely than students who don't to succeed in coping with an unexpected error of their computer. ***It is utterly/abundantly/unmistakably/crytal clear that*** technological skills are tremendously useful in students’ everyday life.
+       3. 让步段：***Admittedly/Granted, some people might deem/argue/state/claim/believe that...***    
+       然后适当展开（因果或者总分），   
+       最后however转回自己的观点   
+       要不要举例子? 字数不够就举   
+# 4. 三选一
+1. 段间比较的思路   
+A+   一个好处或者多个好处，并成一段或者分开来也可以（主旨+道理+个例+小结）   
+(B+)B-没有好处就不写（主旨+适当展开，道理论证必须有，但是例子可以不举+however）   
+(C+)C-没有好处就不写   
+2. 开头段的写法：    
+When it comes to...., some people claim that, while other people state/argue/reckon/deem....However, from my perspective,.....is optimal/optimum(和optimal是一样的，也是adj) 
+
+## 例子
+1. which is the best way to improve the quality of dormitry life?    
+a) build a quiet place for study   
+b) build an exercise room   
+c) build a place for entertainment
+   1. 
+      1. a+:    
+      提高学习成绩：boost/improve academic performance; achieve academic excellence/success(道理论证：away from distraction,focus,***augment learning efficiency***,better academic life)
+      a-:     
+      waste of money: cafes,library:more spacious
+      2. b+:   
+      improve/promote/boost/be beneficial health/well being    
+      一些可能用到的词：treadmill跑步机      
+      > 道理论证    
+      > 身体健康（with regard to） burn plenty of calories---prevent excess weight gain---reduce/eliminate/cut down on the risks of weight-related diseases, such as hypertension, diabetes and obesity;aerobic exercise--- improve blood circulation ---prevent cardiovascular(心血管，cardio+vessel) diseases
+      > 心理健康（in terms of） trigger the release of endorphin(内啡肽);be immmersed in ---- provide sb with a temporary escape from ----take their mind off stressful things--- relax/loosen up/unwind/wind down      
+      b-:   
+      safety concerns;get injured
+      3. c+: relax/enlarge social circle     
+      c-: revel in/indulge in--- undermine academic performance;noisy--- bother other students
+   2. 开头段改写：quality---standard;improve--- ***ameliorate***/enhance/upgrade;build---establish;exercise room --- fitness room;entertainment---***recreation***       
+   >When it comes to ameliorating the standard of dormitory life, some people deem that making the dormitory room study place with no noise or distraction is the best way, while other people reckon that the dorm room should be a place of recreation and enjoyment. However, establishing the room as a mini gym is optimal.
+   3. 主要观点
+   >Building a little gym inside the dorm room is tremendously beneficial to our health and well-being. With regard to physical health, students can do aerobics in the fitness room after staying sedentary for the whole day. These exercises will help ease their neck pain and burn plenty of calories, preventing them from gaining excessive weight. Consequently, the risks of weight-related diseases, such as hypertension, diabetes and obesity, will be considerably reduced. Enough exercise is instrumental to better blood circulation, so working out in the dormitory gym might also prevent cardiovascular diseases. Regarding mental health, doing enjoyable exercises triggers the release of endorphin and makes feel better. Also, the mini gym provides students with a temporary escape from their drab and dreary daily routine, so it’s not hard to believe that all the inhabitants will fall in love with the dormitory fitness room. This point is best illustrated by the case of my roommate, Ron. He used to be stuck in his hectic schedule, which is stuffed with tiring math and computer science classes, when he came back to our dormitory, the only thing in his mind was to eat his comfort food, which is all kinds of chocolate and cheese biscuits. After one year in college, he gained 40 pounds and suffered from obesity. And this wreaked havoc on his confidence because he was teased by many classmates just for his body shape. But the next year we built a mini fitness centre in our dormitory and when we finished our classes in the evening, we would do pull ups together and compete with each other. We ran on the treadmills together, conversing about our daily life and sharing interesting moments, and the time spent in the mini gym took the stressful things off our mind. After one year, Ron’s body shape was dramatically improved, and he began to enjoy a healthy life and a positive mindset. The relationship between us, with no doubt, was better than ever.
+   4. 两个次要观点
+   Admittedly, establishing a quiet study in the dormitory brings numerous benefits. To explain it further. It enables inhabitants to build together an atmosphere to spend as much time as possible studying, and thus help them achieve academic excellence. However, cafes and libraries, with more space, are better places to study. According to a research conducted by Yale Universtiy, 74.29 percent of students in college prefer studying in school libraries rather than in their dorm rooms. So it is crystal clear that building a place to study inside the dorm is a waste of time and effort.     
+   Granted, building a recreation room in the dormitory enables students to free themselves temporarily from the stress of school work. When they get to, say, see a film when they are exhausted after devoting the whole day to endless courses, they can become totally relaxed and be better prepared for the tight schedule awaiting them the next day.By contrast, a recreation room in the dormitory might well become a source of noise in the dormitory, which is supposed to be a place of good rest. Other students might be bothered, and conflicts may occur between roomates. Hence, a building an entertainment room is not sensible.
+2. Many young people face the problem of finding a job after graduation. Which of the following method would you recommend?     
+   1. 三个选项
+      1. asking for other's advice      
+      好处：(1) specific:***mock interviews***:guide ---adjust body language,***revise resume***   
+      gain a competitive edge in landing a job    
+      (2) insider information    
+      坏处：not professional
+      2. sending emails to the companies    
+      好处： efficient   
+      坏处： end up in ***spam***(邮件垃圾箱)
+      3. searching information on-line or other publications   
+      好处： reduce time    
+      坏处： ***cyber scam/ fraud***
+
+   2. 词汇：find/land a job; hunt for/pursue a job/niche/position/occupation
+# 5. 现象证明题
+1. 方法：拆分，然后找原因和根据；优先拆抽象集合词；若没有，则拆受益方；年龄、职业和场景。
+2. 注意和绝对词题的区别：虽然可能包含绝对表述，但是不是问句
+3. 没有标志词，不是别的题目那一定就是这个题目
+4. 
+## 例子
+1. The most important problems affecting our society could be solved within our lifetime.
+   1. 拆分：problems
+      1. 环境问题可以解决：去学校和社区publicize；动手：research+各种环境问题的解决方法
+      2. 教育问题可以解决：线下教育（traditional） compulsory education, fiscal revenues(财政收入来cover),a large variety of schools and courses;线上教育：web-based = online; poverty-stricken areas: first-class faculty(iFLYTEK: help improve infrastructure)
+      3. 健康： personal life: recreational facilities: good community pools and baseball fields; professional life: digital/electronic devices
+2. Even if science and technology would continue to advance and imporve the quality of people's lives, the most significant improvements have already taken place
+   1. 思路：没有发生
+      1. 环境问题：air pollution; soil pollution(publicize and actions); residue of chemical fertilizers
+      2. safety: online frauds/ cyber scam; hacked by anonymous short message, ***nuclear terrorists and extremists***.
+      3. medical care = health: incurable diseases: HIV, asthma,hypertension
+3. Playing sports teaches people important lessons about life.
+   1. division: sports or lessons
+      1. group sports: teamwork and leadership
+      2. individual sports: independence(no body can help) and persistence
+      3. extreme sports: climbing; bungee jumping: courage
+4. Governments has already done enough to educate importance of good nutrition and healthy eating.
+   1. 拆分：人群
+      1. students: students are taught ***what nutrients are indispensable to their physical and psychological well-being***; in relevant classes: chemistry and biology, ***which is conducted in compulsory education sponsored by the government.***
+      2. adults: TV programs to teach people how to have a balanced diet;
+      3. senior citizens: ***hold various seminars in communities***
+5. People can learn about a person from he books and movie the person likes.
+   1. learn about = know about; movie = ***motion picture = blockbusters（bust(动词：打碎打破)） = flick***
+   2. 拆learn
+      1. interests and hobbies
+      2. character and **temperament**: romantic novels: Gone with the Wind: emotional; alien novels: creative and willing to take risks
+      3. 可以写个让步段
+
+1. Students are more interested in politics than they were in the past.
+# 6. 今昔对比
+1. 和现象证明题类似，找原因或者证据
+2. 特征词：nowadays, in the past, before加上表示比较的词
+3. 常用理由：科技发展(technological advance)；社会进步（例如男女平等）(social progress)；政府福利(government benefits)；观念转变(conceptual change)；环境改变(environmental change)
+4. 注意段内的今昔比较，过去怎样，现在怎样
+5. 过去： ***in the past; in ancient times,previously; decades/a generation ago***
+6. 现在： ***in modern times; currently, recently, in modern society.***
+   1. 科技进步：
+   students can be ***timely*** informed of all kinds of = ***a large variety of = a wide range of*** politics news ***owing to the rising growth*** of the internet(政客们开通facebook; more opportunities to discuss and be exposed to others' points)
+   1. government: compulsory education sponsored by the government; required courses; current affairs. 老师和学校鼓励学生讨论，开讨论会
+   2. 观念转变： do not look for stable jobs( a secure job with a permanent income); 而是关心哪个行业热门（hot sector）,有国家政策支持
+7. Is it easier for people to maintain good health(well being/fitness/physical condition, boost/improve/promote/enhance health) than before?
+   1. 
+      1. 科技发展：advance technology = ***cutting-edge technology*** = ***state-of-the-art*** technology: medical knowledge popularization;effective medicin and therapy/more hospitals
+      2. 社会进步：income:healthy food = ***wholesome*** food/organic food
+      3. 政府福利：publicize healthy eating; govenment support = subsides = fiscal spending, public health;
+      4. 环境改变：less germs（细菌）
+      5. 观念意识：beauty and fitness: ***hit the gym***; exercise regularly; ***better dietary habits***/balanced diet; eat more protein, cut the carbonhydrate, drink more water
+   2. 开头段示范：
+   Pysical conditions have ***long been the center of public attention***.(... has/have always been the center of public attention) ***Some people claim that*** compared with decades ago, it is easier for people nowadays to boost their well-being. ***From my perspective, I am in line with this view.***(先写别人的观点，然后再补上自己的看法)
+   3. 结尾：
+   ***All in all, from what has been discussed above, it is safe to reach the conclusion that*** it is easier for people to promote their health than previously.
+   4. 中间段第一段
+      1. 试写：Firstly, fast technological advance make it possible for people to prevent serious diseases and receive better treatment than(***compared with***) decades ago. To be more specific, nowadays vitamin pills and other health maintaining products are perfectly available to the vast majority, while people weren’t able to get these products a few generations ago. Some people even died because of the lack of certain minerals and nutrients, which are abundant in these commodities. Also, cutting-edge technology has found out methods to treat various diseases that were fatal before, such as cardiovascular diseases. However, some operations were impossible previously, and a great number of people died in desperation. Moreover, the great speed of vehicles enables patients to be treated timely. This point is best illustrated by the case of my family. When my grandfather worked in the factory decades ago, his finger was cut off by the machine he operated, when he was sent to the hospital by a tricycle, it was already too late to conducted the operation and he lost his finger forever. And last year my uncle, a watch repairer was accidentally entailed in a violent incident, his hand was severed by the criminal. Thanks to the speed of the ambulance, his hand was attached back. He can continue to repair complex watches just like before. ***Hence/thus/therefore***, it’s ***crystal/utterly/abundantly*** clear that technology plays an important role in helping people stay healthy./***It reinforces my point that***
+      2. 老师补充：In the past,... be confronted with diseases --- outdated knowledge ---wrong therapy ---poor health; however, more precise --- more effective --- health
+   5. Secondly, government also contributes more and more to improving peoples’ fitness. To be more specific, municipal governments have done a lot to publicize knowledge on healthy lifestyles, such as holding lectures in community centers and offering free compulsory class which offers great opportunities for students to learn about how to eat better and lead a healthy lifestyle. However, people in the past didn’t have access to such lectures or classes. Governments use there fiscal revenue to cover the expense of health insurance for citizens, so many treatments which were too expensive for poverty-stricken people are now affordable. Thus, it is reasonable to conclude that government benefits are instrumental to improving people’s health conditions.
+   Thirdly, conceptual change also plays an important role in enhancing peoples physical conditions. People in China used to eat meals that were made for a long time, even when they had gone bad. Those rotten food wreak havoc on their health conditions, and many poor people at that time suffer from diseases concerning their digestive system. But in modern times young people insist on throwing away expired food, and talk elderly people into doing it. According to a research conducted by Renming University of China, the possibility of diseases connect to rotten food has gone down for 47.29 percent in the past 60 years. Therefore, it reinforces my point that conceptual change contributes to the improvement of the public’s health.
+
+# 无差别练习
+1. never be impolite
+   1. 承认合理性：The benefits of being courteous are innumerable and manifold.
+   展开：to be more specific: bond with others, enlarge social circle, easy to get along with. However, to say sth is an overstatement.
+   2. 找缺点：There might be some hidden problems.    
+   violate privacy:eg: paparazzi
+   3. 针对never 找exception: emergency; fireman, criminal
+2. Which one do you think is the most important for high school teacher?    
+(1) the ability to give students advice to plan for their future   
+(2) the ability to find which students need help and provide them help   
+(3) the ability to encourage students to learn on themselves outside of the classroom(选这个好写) (boost academic performance: searh for resources/learning materials --- gain more knowledge; achieve professional success in the future: upgrade skills)(其他选项的坏处： ***hinder the growth/development of independence/autonomy/self-reliance/self-determination***)
+3. In high school classes, which of the following way is the most effectice to stimulate/***arouse/pique/spark***/exite/generate students' interest.   
+(2)using/integrating technology in the classroom more often;(video clips,slide ---sound and visual effects/audio-visual effects ---stimulate senses)(举例子：前后对比，可以举地理老师的例子 tedious/bland/drab and dreary/monotonous; fell asleep---video clips ----customs, landform, graphs)     
+(2)more group work;(好处：激发兴趣； different ideas/gap: motivate sb to catch on; However, ***free-riders = slackers***; lose interest = ***dampen/sap one's enthusiasm for*** = one's interest begin to wane)       
+(3)introduce how knowledge is related to daily life(useful/solve/grapple with actual problems. However, sound like preaching/ patronizing)
+Admittedly, some people might deem that group work is instrumental to educating students. To be more specific, Group work provide students with golden opportunities to exchange different ideas and assimilate excellent thoughts of other students. Moreover, students will compare themselves with other students and find out whether they are left behind. Consequently, group work can motivate students to catch on. However, it is often the case in reality that free-riders destroys the atmosphere and ruin other group members’ effort, dampening the enthusiasm of students who worked really hard to complete the group project. It is abundantly clear that utilizing more group work to educate students is not the optimal choice.
+3. People who cannot accept criticism will not succeed working in a team.(可以当成价值判断题，工作类 prof/personal)
+   1. prof: accept -- fix the problems ---reduce errors --- augment effectiveness
+   2. personal life: easy to get along with --- friends --- success
+   3. 让步段：别人的建议不一定对，但是选择性吸收还是有好处。
+4. Two people can still become friends if one of them has more money than the other one does(现象证明+友谊类 edu+prof+prof)
+   1. 穷人(the poor = the needy = the impoverished = poverty-stricken people )给富人(the rich = the wealthy/ the affluet)提供：persistence/ honest --- grateful
+   2. 穷人给富人提供：job opportunities --- appreciate --- friends
+   3. 让步段
+5. It is important for government to provide money for beautiful things and not just for practical things.(利弊比较+政府类（拆分法，拆抽象集合词）)
+   1. beautiful things(拆分: museum/galleries: gain knowledge;parks:health)
+   2. practical things: infrastructure; public transportation; ***water supply and drainage; power grid***;piplines ---convenience
+6. Is it always right for government to ask people to move their businesses and houses to provide space for the construction of large structures(new roads, new dams, etc)?
+   1. 拆解：受害方：
+      1. government:impose financial burden(relocated houses)
+      2. redidants: transfer schools/ hunt for new jobs/ lose friends
+      3. companies: shut down -- profits
+7. Do you think it is beneficial for the people to stop reading or listening to the news for a period for a few days or a week? Why or why not?
+   1. 看新闻好处：enlarge social circle(shared topics); for students: current affairs --- politics grade; for workers： industries closely related to: stock market
+   2. government 相关的改写： authorities/ the policy maker
 
 
 

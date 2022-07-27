@@ -39,5 +39,32 @@
        1. in contrast 表示对比
    on the contrary 则表示与预期相反    It's no trouble at all; on the contrary, it will be a great pleasure to help you
          2. a large amount of + 不可数名词
+2.  问题解决类型
+    1.  开头抛出问题，一般是个坏事，阅读第一段的最后一句话一定是表明本文的目的是解决这些问题；听力反驳：可能起不到效果，可能有什么副作用
+    2.  模板和之前的不同，之前是reason类的模板，这里是solution类
+        1. 把之前的The writer believes that 改成the writer comes up with 3 methods to address the problem
+        2. 把 state claim argue 改成suggest propose 和put forward
+        3. 阅读的观点claim statement viewpoint 改成 suggestion proposal和measure
+    3. 模板：
+       1. The reading and listening materials have a debate on how to ....The writer puts forward/ comes up with 3 methods to address the problem, which ***are*** contradicted by the following lecture.
+       2. Firstly, the writer suggest that ... (should建议命令要求，可省虚拟，后面加动词原形，省了也还是动词原形)... However/By contrast, the lecturer opposes this suggestion/proposal by saying that...
+       3. Secondly, the artical/reading material/author proposes that...should...,while the speaker views this suggestion/proposal/suggestion from an opposite angle. According to him/her,...
+       4. Thirdly, the author believes that to... is also a good method. By contrast, in accordance with the professor, this method solution/proposal/method does not hold water. This is because...
+    4. The reading and listening materials have a debate on how to prevent birds from trying to fly through glass windows and getting injured. The writer comes up with 3 methods to address the problem, which are contradicted by the following lecture.      Firstly, the author suggest that people should use one-way glass as the substitute for regular clear glass. However, the speaker opposes the article’s proposal by saying that one-way glass is not an effective method because of its ability to reflect image. The problem is that the outside of the one-way window can reflect just like a mirror, and things that reflect just like a mirror are just as bad as regular glass, because birds don’t understand mirrors. If they see the reflection of the sky and trees in the one-way glass, they think it is the sky or trees.      
+    Secondly, the passage put forward that people paint colorful patterns on regular window to stop birds from crashing into the windows, while the lecturer views this issue from an opposite angle. According to him, windows with colorful lines must have uncolored openings on them. And these openings are perceived by birds as open holes, and thus birds will try to fly through these ‘open holes’ and get injured. This solution is plausible only when the unpainted openings are extremely small, but it will make the building too dark for the people inside.     
+    Thirdly, the article proposes that artificial magnetic field be used to prevent birds from flying towards the buildings. By contrast, in accordance to the professor, this suggestion does not hold water because birds do not use magnetic field to guide themselves all the time. Birds only use the ability to sense magnetic field when travelling long distances. For example, when migrating from a cold country to a warm one before winter, they do use the ability to navigate in the right direction. But when travelling short distances such as flying from one side of the city to another, they do not use the ability. Instead, they use their eyes and the brightness of light to determine which direction to go.
+    5. consider/perceive/see/view A as B    
+    少用第一人称
+    over long distances
+    travel long distances
+3. silver coin(tpo44)
+   1. The reading and listening material have a debate on whether the European silver coin found in the state of Maine is a truthful piece of historical evidence. The writer believes the coin is fake and puts forward three reasons, which are contradicted by the following lecture.       
+   First, the writer claims that the site where the coin was excavated is far away from Norse settlements, while the speaker opposes the article by saying that this coin is a genuine piece of evidence proving that the Norse had gotten in touch with native Americans 1000 years ago. To explain it further, many items discovered in the same site were supposed to be found in regions far away(说法不太好，应该是came from ***faraway*** places). There is a sensible historical reason behind it.(There's a perfectly reasonable historical explanation for these objects) The native Americans in Maine state travel long distances and they are interested in collecting objects from far regions, so the coin was probably collected by them during their travel and brought back to the state of Maine(the native Americans could have reached the north settlements during their travels, and brought the silver coin back to maine).       
+   Secondly, the author stated that there is no evidence suggesting that the Norse brought silver coins with them to North America, because no other coins have been found. However, the lecturer views this issue from an opposite angle. According to her, the Norse didn’t settle down in North America permanently, and their stay was clearly temporary. Thus, when they went back to Europe, they would pack all their valuable things(possessions), including their silver coins. So it is likely that they brought the coins to the native American site, and when they return to Europe, they took the coins back.     
+   Thirdly, the passage argues that the Norse didn’t bring the coin to North America because they knew silver coins are of no use there. By contrast, in accordance to the professor, the reading material’s claim does not hold water. This is because although native Americans did not view silver coins as we nowadays do or people in Europe did at that time, they valued attractive, unusual objects(the Norse probably knew that the native Americans valued attractive and unusual objects). The silver coins might have been appealing and beautiful to them(the silver coins might have been very appealing because of their beauty), and native American could make the coins into necklaces or jewelry. So if(as long as) the they found the coins interesting and beautiful, the Norse could use these objects to trade with them.
+
+
+
+
     
 
