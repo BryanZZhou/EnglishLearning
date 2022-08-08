@@ -59,6 +59,26 @@
 
 
 # 听课笔记
-## 填空题(小线索大秘密)
-1. for all = in spite of （逻辑线索词汇）
-2. 
+## 填空题
+1. 多元词汇考法1：逻辑联系
+   1. for all = in spite of （逻辑线索词汇）
+   2. 逻辑关系：对比 转折 并列 递进 因果 指代解释
+2. 多元词汇考法2：词汇特殊意义
+   1. 核心方法；找到单词的核心意思，通过核心意义思考如何引申到特殊意义
+   2. license 特殊意思： 不拘一格 Word order in a sentence was much freer in Old French than it is in French today; this license disappeared as the French language gradually lost its case distinctions
+3. eg
+![pic1](/pic/1.jpg) 
+生活逻辑：凡尔赛    
+选 AD     
+ZY相同，与X相反
+4. eg
+![pic2](/pic/2.jpg)    
+生活逻辑：拉踩，嘴硬，比烂     
+tenuous 脆弱的，贫乏的，站不住脚的        
+选 AD 而不是 AF，因为要凸显对手更拉   
+5.   
+![](/pic/3.jpg)     
+生活逻辑       
+hamper 阻碍    
+一个发现： On the contrary 的实质逻辑通常表示递进（他不懒，相反他很勤奋）   
+选 B 
