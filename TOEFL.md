@@ -677,4 +677,7 @@ vitality 生命力；活力，激情
 251. banish deport oust exile 
 252. tempest 暴风雨 blizzard 暴风雪 gale 大风
 253. canal carnal cranial
-254. 
+254. lid 盖子 
+255. screw off 拧下来 These contains have lids that needs to be screwed off. 
+256. screw: 拧；螺丝 screwdriver: 螺丝起子
+257. 

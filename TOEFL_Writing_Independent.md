@@ -4,7 +4,7 @@
 3. 绝对词：绝对词单独成一类
 4. 
    1. 价值判断： 标志词should important；思路：chemist；结构：三个A+
-   2. 现象证明：没有标志词；拆分：抽象名；：年龄职业受益方 结构也是三个A+
+   2. 现象证明：没有标志词；拆分：抽象名；年龄职业受益方 结构也是三个A+
    3. 利弊比较： 标志词should important+比较；思路：chemist结构：A+A+B+B-
    4. 三选一： 标志词：最高级和三个选项；思路：chemist； 结构： nA+(n可以为1)B+B-C+C-
    5. 今昔对比：
@@ -14,12 +14,10 @@
 2. 小结句：It is unmistakably/crystal/abundantly/utterly clear that...
 3. 限定关系：regarding; in/with regard to;when it comes to(一般开头段用);in terms of...
 4. 主旨句好的表达：
-enable/allow/permit sb to do;      
+enable/allow/permit sb to do; provide sb with excellent/golden opportunities to do; make it possible for sb to do      
 be instrumental in;        
-be tremendously beneficial to/ for ...;   
-provide sb with excellent/golden opportunities to do;    
-make it possible for sb to do
-# 1. 绝对词题
+be tremendously beneficial to/ for ...;    
+# 1. 绝对词题 
 1. 特征词：best only never always all must most 形容词最高级
 2. 绝对词题一般写驳论比较好写（相对于立论）（证明不是最好比证明最好更加容易）
 3. 方法论：第一段先承认合理性（体现全面性），但是不是最好的；第二段指出缺点；第三段针对绝对词反驳，例如best找出更好的，most就找more，看到always/all/never就找exception，看到only/must就找other。正好三段。
@@ -32,7 +30,7 @@ make it possible for sb to do
       3. Somebody is a good case in point
       4. This point is best illustrated by the case of ...(somebody,somebody's experience/effort to...)
    2. 多例(个例字数不够的时候就用多例,尤其是和电影书籍等媒介有关的时候，缺点是不好想，不优先使用)
-      1. Life abounds with such examples.
+      1. ***Life abounds with such examples.***
    3. 数例:According to the survey/research conducted by xx University in 2018
    4. 名人名言
 
@@ -85,7 +83,7 @@ make it possible for sb to do
       2. welfare/training-motivate staff
 7. All university students should be required to take history courses no matter what their field of study is.
    1. para1
-      1. Admittedly/Granted, ...brings numerous benefits/The benefits of ... are  and manifold.
+      1. Admittedly/Granted, ...brings numerous benefits/The benefits of ... are innumerous and manifold.
       2. 有论点就必须有论据,所以要展开(总分展开或者因果展开，有什么好处或者为什么又这种好处)
          1. **prevent the mistakes made in the past**(World War II)
          2. **draw on/upon history experience（注意不能复数）**
@@ -108,7 +106,6 @@ make it possible for sb to do
 2. 立场选择：没有对错之分，选话多的写
 3. 如何找优点：chemist：convenience; health and safety; environment; money; interpersonal relationship/relax;success(学习+工作+品质);technology
 4. 分论点结构：主旨句+道理论证+举例+小结；次要的分论点可以不举例，或者可以举数例、名人名言这种。
-5. 
 
 ## 例子
 1. Drivers should pay a fee for driving in busy streets when there is a heavy traffic.(2019.12.21)
@@ -194,29 +191,29 @@ c) build a place for entertainment
       一些可能用到的词：treadmill跑步机      
       > 道理论证    
       > 身体健康（with regard to） burn plenty of calories---prevent excess weight gain---reduce/eliminate/cut down on the risks of weight-related diseases, such as hypertension, diabetes and obesity;aerobic exercise--- improve blood circulation ---prevent cardiovascular(心血管，cardio+vessel) diseases
-      > 心理健康（in terms of） trigger the release of endorphin(内啡肽);be immmersed in ---- provide sb with a temporary escape from ----take their mind off stressful things--- relax/loosen up/unwind/wind down      
+      > 心理健康（in terms of） trigger the release of endorphin(内啡肽);be immmersed in ---- provide sb with a temporary escape from ----take their mind off stressful things--- relax/loosen up/unwind/wind down/blow off some steam      
       b-:   
       safety concerns;get injured
       3. c+: relax/enlarge social circle     
       c-: revel in/indulge in--- undermine academic performance;noisy--- bother other students
    2. 开头段改写：quality---standard;improve--- ***ameliorate***/enhance/upgrade;build---establish;exercise room --- fitness room;entertainment---***recreation***       
-   >When it comes to ameliorating the standard of dormitory life, some people deem that making the dormitory room study place with no noise or distraction is the best way, while other people reckon that the dorm room should be a place of recreation and enjoyment. However, establishing the room as a mini gym is optimal.
+   >When it comes to ameliorating the standard of dormitory life, some people deem that making the dormitory room a study place with no noise or distraction is the best way, while other people reckon that the dorm room should be a place of recreation and enjoyment. However, from my perspective, establishing the room as a mini gym is optimal.
    3. 主要观点
-   >Building a little gym inside the dorm room is tremendously beneficial to our health and well-being. With regard to physical health, students can do aerobics in the fitness room after staying sedentary for the whole day. These exercises will help ease their neck pain and burn plenty of calories, preventing them from gaining excessive weight. Consequently, the risks of weight-related diseases, such as hypertension, diabetes and obesity, will be considerably reduced. Enough exercise is instrumental to better blood circulation, so working out in the dormitory gym might also prevent cardiovascular diseases. Regarding mental health, doing enjoyable exercises triggers the release of endorphin and makes feel better. Also, the mini gym provides students with a temporary escape from their drab and dreary daily routine, so it’s not hard to believe that all the inhabitants will fall in love with the dormitory fitness room. This point is best illustrated by the case of my roommate, Ron. He used to be stuck in his hectic schedule, which is stuffed with tiring math and computer science classes, when he came back to our dormitory, the only thing in his mind was to eat his comfort food, which is all kinds of chocolate and cheese biscuits. After one year in college, he gained 40 pounds and suffered from obesity. And this wreaked havoc on his confidence because he was teased by many classmates just for his body shape. But the next year we built a mini fitness centre in our dormitory and when we finished our classes in the evening, we would do pull ups together and compete with each other. We ran on the treadmills together, conversing about our daily life and sharing interesting moments, and the time spent in the mini gym took the stressful things off our mind. After one year, Ron’s body shape was dramatically improved, and he began to enjoy a healthy life and a positive mindset. The relationship between us, with no doubt, was better than ever.
-   4. 两个次要观点
+   >Building a little gym inside the dorm room is tremendously beneficial to our health and well-being. With regard to physical health, students can do aerobics in the fitness room after staying sedentary for the whole day. These exercises will help ease their neck pain and burn plenty of calories, preventing them from gaining excessive weight. Consequently, the risks of weight-related diseases, such as hypertension, diabetes and obesity, will be considerably reduced. Enough exercise is instrumental to better blood circulation, so working out in the dormitory gym might also prevent cardiovascular diseases. Regarding mental health, doing enjoyable exercises triggers the release of endorphin. Also, the mini gym provides students with a temporary escape from their drab and dreary daily routine, so it’s not hard to believe that all the inhabitants will fall in love with the dormitory fitness room. This point is best illustrated by the case of my roommate, Ron. He used to be stuck in his hectic schedule, which is stuffed with tiring math and computer science classes, when he came back to our dormitory, the only thing in his mind was to eat his comfort food, which is all kinds of chocolate and cheese biscuits. After one year in college, he gained 40 pounds and suffered from obesity. And this wrought havoc on his confidence because he was teased by many classmates just for his body shape. But the next year we built a mini fitness centre in our dormitory and when we finished our classes in the evening, we would do pull ups together and compete with each other. We ran on the treadmills together, conversing about our daily life and sharing interesting moments, and the time spent in the mini gym took the stressful things off our mind. After one year, Ron’s body shape was dramatically improved, and he began to enjoy a healthy life and a positive mindset. The relationship between us, with no doubt, was better than ever.
+   1. 两个次要观点       
    Admittedly, establishing a quiet study in the dormitory brings numerous benefits. To explain it further. It enables inhabitants to build together an atmosphere to spend as much time as possible studying, and thus help them achieve academic excellence. However, cafes and libraries, with more space, are better places to study. According to a research conducted by Yale Universtiy, 74.29 percent of students in college prefer studying in school libraries rather than in their dorm rooms. So it is crystal clear that building a place to study inside the dorm is a waste of time and effort.     
    Granted, building a recreation room in the dormitory enables students to free themselves temporarily from the stress of school work. When they get to, say, see a film when they are exhausted after devoting the whole day to endless courses, they can become totally relaxed and be better prepared for the tight schedule awaiting them the next day.By contrast, a recreation room in the dormitory might well become a source of noise in the dormitory, which is supposed to be a place of good rest. Other students might be bothered, and conflicts may occur between roomates. Hence, a building an entertainment room is not sensible.
-2. Many young people face the problem of finding a job after graduation. Which of the following method would you recommend?     
+1. Many young people face the problem of finding a job after graduation. Which of the following method would you recommend?     
    1. 三个选项
       1. asking for other's advice      
       好处：(1) specific:***mock interviews***:guide ---adjust body language,***revise resume***   
       gain a competitive edge in landing a job    
       (2) insider information    
       坏处：not professional
-      2. sending emails to the companies    
+      1. sending emails to the companies    
       好处： efficient   
       坏处： end up in ***spam***(邮件垃圾箱)
-      3. searching information on-line or other publications   
+      1. searching information on-line or other publications   
       好处： reduce time    
       坏处： ***cyber scam/ fraud***
 
@@ -232,7 +229,7 @@ c) build a place for entertainment
       1. 环境问题可以解决：去学校和社区publicize；动手：research+各种环境问题的解决方法
       2. 教育问题可以解决：线下教育（traditional） compulsory education, fiscal revenues(财政收入来cover),a large variety of schools and courses;线上教育：web-based = online; poverty-stricken areas: first-class faculty(iFLYTEK: help improve infrastructure)
       3. 健康： personal life: recreational facilities: good community pools and baseball fields; professional life: digital/electronic devices
-2. Even if science and technology would continue to advance and imporve the quality of people's lives, the most significant improvements have already taken place
+2. Even if science and technology would continue to advance and improve the quality of people's lives, the most significant improvements have already taken place
    1. 思路：没有发生
       1. 环境问题：air pollution; soil pollution(publicize and actions); residue of chemical fertilizers
       2. safety: online frauds/ cyber scam; hacked by anonymous short message, ***nuclear terrorists and extremists***.
@@ -278,7 +275,7 @@ c) build a place for entertainment
    3. 结尾：
    ***All in all, from what has been discussed above, it is safe to reach the conclusion that*** it is easier for people to promote their health than previously.
    4. 中间段第一段
-      1. 试写：Firstly, fast technological advance make it possible for people to prevent serious diseases and receive better treatment than(***compared with***) decades ago. To be more specific, nowadays vitamin pills and other health maintaining products are perfectly available to the vast majority, while people weren’t able to get these products a few generations ago. Some people even died because of the lack of certain minerals and nutrients, which are abundant in these commodities. Also, cutting-edge technology has found out methods to treat various diseases that were fatal before, such as cardiovascular diseases. However, some operations were impossible previously, and a great number of people died in desperation. Moreover, the great speed of vehicles enables patients to be treated timely. This point is best illustrated by the case of my family. When my grandfather worked in the factory decades ago, his finger was cut off by the machine he operated, when he was sent to the hospital by a tricycle, it was already too late to conducted the operation and he lost his finger forever. And last year my uncle, a watch repairer was accidentally entailed in a violent incident, his hand was severed by the criminal. Thanks to the speed of the ambulance, his hand was attached back. He can continue to repair complex watches just like before. ***Hence/thus/therefore***, it’s ***crystal/utterly/abundantly*** clear that technology plays an important role in helping people stay healthy./***It reinforces my point that***
+      1. 试写：Firstly, fast technological advance makes it possible for people to prevent serious diseases and receive better treatment than(***compared with***) decades ago. To be more specific, nowadays vitamin pills and other health maintaining products are perfectly available to the vast majority, while people weren’t able to get these products a few generations ago. Some people even died because of the lack of certain minerals and nutrients, which are abundant in these commodities. Also, cutting-edge technology has found out methods to treat various diseases that were fatal before, such as cardiovascular diseases. However, some operations were impossible previously, and a great number of people died in desperation. Moreover, the great speed of vehicles enables patients to be treated timely. This point is best illustrated by the case of my family. When my grandfather worked in the factory decades ago, his finger was cut off by the machine he operated, when he was sent to the hospital by a tricycle, it was already too late to conducted the operation and he lost his finger forever. And last year my uncle, a watch repairer was accidentally entailed in a violent incident, his hand was severed by the criminal. Thanks to the speed of the ambulance, his hand was attached back. He can continue to repair complex watches just like before. ***Hence/thus/therefore***, it’s ***crystal/utterly/abundantly*** clear that technology plays an important role in helping people stay healthy./***It reinforces my point that***
       2. 老师补充：In the past,... be confronted with diseases --- outdated knowledge ---wrong therapy ---poor health; however, more precise --- more effective --- health
    5. Secondly, government also contributes more and more to improving peoples’ fitness. To be more specific, municipal governments have done a lot to publicize knowledge on healthy lifestyles, such as holding lectures in community centers and offering free compulsory class which offers great opportunities for students to learn about how to eat better and lead a healthy lifestyle. However, people in the past didn’t have access to such lectures or classes. Governments use there fiscal revenue to cover the expense of health insurance for citizens, so many treatments which were too expensive for poverty-stricken people are now affordable. Thus, it is reasonable to conclude that government benefits are instrumental to improving people’s health conditions.
    Thirdly, conceptual change also plays an important role in enhancing peoples physical conditions. People in China used to eat meals that were made for a long time, even when they had gone bad. Those rotten food wreak havoc on their health conditions, and many poor people at that time suffer from diseases concerning their digestive system. But in modern times young people insist on throwing away expired food, and talk elderly people into doing it. According to a research conducted by Renming University of China, the possibility of diseases connect to rotten food has gone down for 47.29 percent in the past 60 years. Therefore, it reinforces my point that conceptual change contributes to the improvement of the public’s health.

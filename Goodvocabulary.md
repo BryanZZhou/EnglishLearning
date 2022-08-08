@@ -31,7 +31,7 @@ The human brain is remarkably flexible, an organ with the capacity to absorb new
 human beings have a universal predisposition to ‘story’ their experience, that is, to impose a narrative interpretation on information and experience.
 
 
-# 圣殿春秋
+# The pillars of the earth
 1. flint 打火石
 2. dwindle 减少变小 The flint is dwindling, but the steel still shines
 3. Its wood has withered, but it would still do the deed. 工具的木头已经萎缩了，但是仍然可以正常使用
@@ -45,3 +45,15 @@ human beings have a universal predisposition to ‘story’ their experience, th
 11. His novices obedient, his monks humble and pious.
 12. sorry 悲惨的破败的可怜的 in a sorry state; They were in a sorry state when they eventually got off the boat. Our priory is in such a sorry state
 13. salvation n.得救，救恩，救世；（危险，灾难等的）避免方式，解救方式 Group therapies have long been his salvation
+14. commotion
+
+# Bloodborne
+1. wield      
+If you wield a weapon, tool, or piece of equipment, you carry and use it.      
+The trick weapon is wielded in the right hand.
+If someone wields power, they have it and are able to use it.    
+2. chalice 杯 圣餐杯 酒杯 
+3. visceral  resulting from strong feelings rather than careful thought；  
+She had a visceral dislike of all things foreign       
+relating to the viscera 内脏的；脏腑的   
+4. 
